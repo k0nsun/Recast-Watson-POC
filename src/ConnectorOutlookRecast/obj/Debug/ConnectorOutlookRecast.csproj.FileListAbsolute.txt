@@ -1,0 +1,16 @@
+c:\users\johnatan.georges\documents\visual studio 2015\Projects\ConnectorOutlookRecast\ConnectorOutlookRecast\bin\Debug\ConnectorOutlookRecast.exe.config
+c:\users\johnatan.georges\documents\visual studio 2015\Projects\ConnectorOutlookRecast\ConnectorOutlookRecast\bin\Debug\ConnectorOutlookRecast.exe
+c:\users\johnatan.georges\documents\visual studio 2015\Projects\ConnectorOutlookRecast\ConnectorOutlookRecast\bin\Debug\ConnectorOutlookRecast.pdb
+c:\users\johnatan.georges\documents\visual studio 2015\Projects\ConnectorOutlookRecast\ConnectorOutlookRecast\obj\Debug\ConnectorOutlookRecast.csprojResolveAssemblyReference.cache
+c:\users\johnatan.georges\documents\visual studio 2015\Projects\ConnectorOutlookRecast\ConnectorOutlookRecast\obj\Debug\ConnectorOutlookRecast.csproj.ResolveComReference.cache
+c:\users\johnatan.georges\documents\visual studio 2015\Projects\ConnectorOutlookRecast\ConnectorOutlookRecast\obj\Debug\ConnectorOutlookRecast.exe
+c:\users\johnatan.georges\documents\visual studio 2015\Projects\ConnectorOutlookRecast\ConnectorOutlookRecast\obj\Debug\ConnectorOutlookRecast.pdb
+c:\users\johnatan.georges\documents\visual studio 2015\Projects\ConnectorOutlookRecast\ConnectorOutlookRecast\bin\Debug\OpenPop.dll
+D:\Users\Johnatan\Documents\Visual Studio 2015\Projects\ConnectorOutlookRecast\ConnectorOutlookRecast\bin\Debug\ConnectorOutlookRecast.exe.config
+D:\Users\Johnatan\Documents\Visual Studio 2015\Projects\ConnectorOutlookRecast\ConnectorOutlookRecast\obj\Debug\ConnectorOutlookRecast.csproj.ResolveComReference.cache
+D:\Users\Johnatan\Documents\Visual Studio 2015\Projects\ConnectorOutlookRecast\ConnectorOutlookRecast\obj\Debug\ConnectorOutlookRecast.exe
+D:\Users\Johnatan\Documents\Visual Studio 2015\Projects\ConnectorOutlookRecast\ConnectorOutlookRecast\obj\Debug\ConnectorOutlookRecast.pdb
+D:\Users\Johnatan\Documents\GitHub\Recast-Watson-POC\src\ConnectorOutlookRecast\bin\Debug\ConnectorOutlookRecast.exe.config
+D:\Users\Johnatan\Documents\GitHub\Recast-Watson-POC\src\ConnectorOutlookRecast\obj\Debug\ConnectorOutlookRecast.csproj.ResolveComReference.cache
+D:\Users\Johnatan\Documents\GitHub\Recast-Watson-POC\src\ConnectorOutlookRecast\obj\Debug\ConnectorOutlookRecast.exe
+D:\Users\Johnatan\Documents\GitHub\Recast-Watson-POC\src\ConnectorOutlookRecast\obj\Debug\ConnectorOutlookRecast.pdb
