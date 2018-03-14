@@ -7,7 +7,7 @@ Context: Accenture AI4Clients Hackathon
 * Console Application 
 * First use of WATSON and RECAST NOT together
 
-#More 
+# More 
 
 ==> POC WATSON and RECAST together [here](https://github.com/k0nsun/Recast-With-Watson-POC)
 
