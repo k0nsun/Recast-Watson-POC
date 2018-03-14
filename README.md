@@ -1,6 +1,6 @@
 # WATSON AND RECAST POC
 
-Context: hackathon ACCENTURE AI 2017
+Context: Accenture AI4Clients Hackathon
 
 # Specifications:
 
