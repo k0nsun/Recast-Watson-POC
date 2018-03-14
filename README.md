@@ -4,7 +4,7 @@ Context: Accenture AI4Clients Hackathon
 
 # Specifications:
 
-* Console Application 
+* Console Application C#
 * First use of WATSON and RECAST NOT together
 
 # More 
